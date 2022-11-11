@@ -23,7 +23,7 @@
     "react-tsparticles": "^1.42.2",
     "save-dev": "^0.0.1-security",
     "typewriter-effect": "^2.18.2",
-    "web-vitals": "^2.1.4",
+    "web-vitals": "^2.1.4"
     
   },
   "scripts": {
